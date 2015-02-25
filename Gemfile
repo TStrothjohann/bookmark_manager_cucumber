@@ -8,4 +8,6 @@ gem 'sinatra'
 group :test do
   gem 'rspec'
   gem 'cucumber-sinatra'
+  gem 'database_cleaner'
+  
 end
